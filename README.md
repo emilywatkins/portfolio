@@ -1,5 +1,5 @@
 # A few noteworthy projects
-## **Check back often for new additions**
+**Check back often for new additions**
 
 ## Contact
 
