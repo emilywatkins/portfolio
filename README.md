@@ -1,6 +1,7 @@
 # A few noteworthy projects
+## **Check back often for new additions**
 
-## Contact Details
+## Contact
 
 * _Github: https://github.com/emilywatkins_
 * _LinkedIn: https://www.linkedin.com/in/emilyewatkins_
