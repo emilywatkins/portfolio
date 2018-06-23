@@ -10,10 +10,16 @@
 
 ## The ones I'm proud of:
 
+* ### Ruby - Exercism exercises
+  * **Repository:**  https://github.com/emilywatkins/exercism
+  * **Description:**  exercism.io - small exercises that use test-driven development to break down components and help account for edge cases.
+  * **Tools:**  Ruby, Minitest
+
 * ### Ruby and PostgreSQL - Seinfeld dialogue analyzer - in progress
   * **Repository:**  https://github.com/emilywatkins/seinfeld
   * **Description:**  Personal side project to practice writing Ruby and SQL. It imports dialogue from a CSV of the script into a Postgres database and currently returns most commonly used words for the inputted character.
   * **Tools:**  Ruby, Postgres, SQL
+
 
 * ### Ruby on Rails and Postgres - Dino Forum
   * **Repository:**  https://github.com/emilywatkins/dino_forum
